@@ -1,0 +1,6 @@
+RecShare/Logs
+RecShare/Temp
+RecShare/UserSettings
+*.csproj
+.vsconfig
+RecShare.sln
